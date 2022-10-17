@@ -1,0 +1,18 @@
+C:\Users\juaperez\source\repos\MessageService\MessageService\bin\Debug\MessageService.dll
+C:\Users\juaperez\source\repos\MessageService\MessageService\bin\Debug\MessageService.pdb
+C:\Users\juaperez\source\repos\MessageService\MessageService\obj\Debug\MessageService.csprojAssemblyReference.cache
+C:\Users\juaperez\source\repos\MessageService\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
+C:\Users\juaperez\source\repos\MessageService\MessageService\obj\Debug\MessageService.dll
+C:\Users\juaperez\source\repos\MessageService\MessageService\obj\Debug\MessageService.pdb
+C:\Users\aavp0\Downloads\MessageService\MessageService\bin\Debug\MessageService.dll
+C:\Users\aavp0\Downloads\MessageService\MessageService\bin\Debug\MessageService.pdb
+C:\Users\aavp0\Downloads\MessageService\MessageService\obj\Debug\MessageService.csproj.AssemblyReference.cache
+C:\Users\aavp0\Downloads\MessageService\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Downloads\MessageService\MessageService\obj\Debug\MessageService.dll
+C:\Users\aavp0\Downloads\MessageService\MessageService\obj\Debug\MessageService.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\bin\Debug\MessageService.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\bin\Debug\MessageService.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\obj\Debug\MessageService.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\obj\Debug\MessageService.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\obj\Debug\MessageService.dll
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\MessageService\MessageService\obj\Debug\MessageService.pdb

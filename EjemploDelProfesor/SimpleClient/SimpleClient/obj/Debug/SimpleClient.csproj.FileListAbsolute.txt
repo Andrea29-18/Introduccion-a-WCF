@@ -1,0 +1,48 @@
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\MainWindow.g.cs
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\App.g.cs
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.lref
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\MainWindow.baml
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.g.resources
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.Properties.Resources.resources
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.GenerateResource.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Sockets_Conversacion\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.AssemblyReference.cache
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\MainWindow.g.cs
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\App.g.cs
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.cache
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.lref
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\MainWindow.baml
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.g.resources
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.Properties.Resources.resources
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.GenerateResource.cache
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+C:\Users\aavp0\Downloads\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe.config
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\bin\Debug\SimpleClient.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\bin\Debug\SimpleClient.pdb
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.AssemblyReference.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\MainWindow.g.cs
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\App.g.cs
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient_MarkupCompile.lref
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\MainWindow.baml
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.g.resources
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.Properties.Resources.resources
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.GenerateResource.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.csproj.CoreCompileInputs.cache
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.exe
+C:\Users\aavp0\Documents\UV5\Tecnologias para la construccion de software\Tarea\Introducci-n-a-WCF\EjemploDelProfesor\SimpleClient\SimpleClient\obj\Debug\SimpleClient.pdb
